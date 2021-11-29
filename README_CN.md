@@ -23,7 +23,7 @@ https://github.com/compileflow/compileflow-designer-upgrade
 
 ### 使用场景
 * 设计业务逻辑流程图，并导出图片保存
-* 设计编辑流程图，生成comileflow引擎所支持的XML源文件
+* 设计编辑流程图，生成compileflow引擎所支持的XML源文件
 * 预览已存在的XML源文件
 
 ### 设计目标
